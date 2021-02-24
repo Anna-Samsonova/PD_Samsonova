@@ -1,2 +1,3 @@
 from math import*
-print(sgrt(81))
+print(sqrt(81))
+veicu izmaiņas 2 rindā, Samsonova
